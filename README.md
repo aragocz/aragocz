@@ -1,2 +1,2 @@
-### Hey, my name is [Jakub](http://aragocz.unaux.com), and i welcome you to my profile :D
+### Hey, my name is Jakub, and i welcome you to my profile :D
 
