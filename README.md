@@ -11,5 +11,4 @@ I'm too lazy to write a description about me, so, wait till i get my schnitzel t
 - [ ]Get GitHub Pro
 - [ ]Verify my Discord Bot [Łegend](http://aragocz.com/legendbot%20subdomain/homepage.html)(The name might be changed later)
 - [ ]FINISH my webpage
-- [ ]Get X rank on [TETR.IO](https://tetr.io)
 - [x]Make use of my coding "skills" (Łegend Developers game + discord bot development)
