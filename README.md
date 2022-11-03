@@ -8,7 +8,5 @@ I'm too lazy to write a description about me, so, wait till i get my schnitzel t
 
 - [x]Buy a domain
 - [ ]Make About Me page
-- [ ]Get GitHub Pro
-- [ ]Verify my Discord Bot [Łegend](http://aragocz.com/legendbot%20subdomain/homepage.html)(The name might be changed later)
-- [ ]FINISH my webpage
+- [x]Get GitHub Pro
 - [x]Make use of my coding "skills" (Łegend Developers game + discord bot development)
